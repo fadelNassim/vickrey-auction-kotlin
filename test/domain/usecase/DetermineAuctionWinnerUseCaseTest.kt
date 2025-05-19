@@ -1,7 +1,7 @@
 package domain.usecase
 
 import domain.model.Bidder
-import data.repository.AuctionDataSource
+import data.datasource.AuctionDataSource
 import junit.framework.TestCase.assertEquals
 import junit.framework.TestCase.assertNotNull
 import junit.framework.TestCase.assertNull

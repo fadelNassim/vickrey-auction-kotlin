@@ -1,6 +1,6 @@
 package domain.usecase
 
-import data.repository.AuctionDataSource
+import data.datasource.AuctionDataSource
 
 data class AuctionResult(
     val winner: String,
