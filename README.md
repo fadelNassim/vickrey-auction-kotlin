@@ -34,28 +34,6 @@ Result:
   - Winner: E (highest bid of 140)
   - Winning price: 130 (next highest valid bid from another bidder, A's bid)
 ```
----
-
-## 🚀 **Setup and Usage**
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/vickrey-auction-kata.git
-   cd vickrey-auction-kata
-   ```
-
-2. **Build the project:**
-
-   ```bash
-   ./gradlew build
-   ```
-
-3. **Run Tests:**
-
-   ```bash
-   ./gradlew test
-   ```
 
 ---
 
